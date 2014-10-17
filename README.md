@@ -1,4 +1,6 @@
 magentotheme
 ============
 
-A responsive theme for Magento
+A responsive theme for Maggento
+
+This will also be a multipurpose theme.
